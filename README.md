@@ -1,3 +1,7 @@
 # IBM Machine Learning Course
 
-You can find my answers to the final assignment of IBM’s ML course.
+Final assignment work for IBM's Machine Learning course.
+
+## Contents
+
+Course notebooks and solutions for the final project.
